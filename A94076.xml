@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strong motives, or Loving and modest advice, vnto the petitioners for presbiterian government. That they endeavour not the compulsion of any in matters of religion, more then they wish others should endeavour to compell them. But with all love, lenitie, meekenesse, patience, &amp; long-suffering to doe unto others, as they desire others should doe unto them. Whereunto is annexed the conclusion of Lieuten. Generall Cromwells letter to the House of Common tending to the same purpose.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94076</idno>
+            <idno type="STC">Wing S6016</idno>
+            <idno type="STC">Thomason E304_15</idno>
+            <idno type="STC">ESTC R200308</idno>
+            <idno type="EEBO-CITATION">99861115</idno>
+            <idno type="PROQUEST">99861115</idno>
+            <idno type="VID">158780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158780)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E304[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strong motives, or Loving and modest advice, vnto the petitioners for presbiterian government. That they endeavour not the compulsion of any in matters of religion, more then they wish others should endeavour to compell them. But with all love, lenitie, meekenesse, patience, &amp; long-suffering to doe unto others, as they desire others should doe unto them. Whereunto is annexed the conclusion of Lieuten. Generall Cromwells letter to the House of Common tending to the same purpose.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed October. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Includes "The conclusion of Lieuten: Generall Cromwells letter from the armie, to the House of Commons, concerning the taking of Bristoll. Which was contained in the originall letter signed by himselfe, but omitted in the printed copy, which is authorized by the House of Commons, .." The letter referred to is: Lieut: Generall Cromwells letter to the House of Commons, of all the particulars of taking the city of Bristoll (Wing C7114).</note>
+                  <note>Annotation on Thomason copy: "8bre: 10th 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:158780:1" rendition="simple:additions"/>
+            <head>STRONG MOTIVES, OR LOVING AND MODEST ADVICE, Vnto the Petitioners for <hi>Presbiterian</hi> GOVERNMENT.</head>
+            <head type="sub">That they endeavour not the compulſion of any in matters of Religion, more then they wiſh others ſhould endeavour to compell them.</head>
+            <head type="sub">But with all Love, Lenitie, Meekeneſſe, Patience, &amp; Long-ſuffering to doe unto others, as they deſire others ſhould doe unto them.</head>
+            <head type="sub">Whereunto is annexed the Concluſion of Lieuten. Generall <hi>Crom<g ref="char:EOLhyphen"/>wells</hi> Letter to the Houſe of Common tending to the ſame purpoſe.</head>
+            <epigraph>
+               <bibl>
+                  <hi>2 TIM. 24.25.26.</hi>
+               </bibl>
+               <q>
+                  <p>But the ſervant of the Lord muſt not ſtrive, but muſt bee gentle to<g ref="char:EOLhyphen"/>wards all men, apt to teach. Suffering the evill, inſtructing them with meekeneſse that are contrary minded, proving if God at any time will give them repentance, that they may acknowledge the truth, and come to amen<g ref="char:EOLhyphen"/>diment out of the ſnare of the Devill, of whom they are taken Priſoners to doe his will.</p>
+               </q>
+            </epigraph>
+            <p>DEare Friends, you cannot, nor would not account true Religion the life and Crowne of all your Liberties and Priviledges; except you may have free liberty to exerciſe the ſame according to your owne underſtandings and conſciences (as you conceive) to be in<g ref="char:EOLhyphen"/>formed by the word of God; and if ſo be, then it will be your
+<pb n="2" facs="tcp:158780:2"/>part to doe, as you would be done unto: You would not be com<g ref="char:EOLhyphen"/>pelled to worſhip God contrary to the light of your Conſciences, nor be with<g ref="char:EOLhyphen"/>held from worſhipping him according to your Conſciences, How is it then, that you ſo earneſtly endeavour for ſuch a Government, as pretendeth to have a right of controlling and directing all men in matters of Gods worſhip: and whereas you would be underſtood to have ſound out true Religion; if you will ingeniouſly conſider, you muſt acknowledge you have no more to prove yours to be ſo, but that upon grounds of Scripture, you are fully aſſured in your owne minds of the truth thereof.</p>
+            <p>But now I hope neither you, nor Councells, nor Synods, have any Spirit of infallibillity, you may miſtake and miſapply the Scriptures, as well as other men may doe,: What reaſon is there, (or can there be then,) that you ſhould be ſo earneſt to inforce all men in this Kingdome, to walke by your uncertaine rule: All other conſciencious people of what judgement ſo ever, are as you are, in this kind; even fully aſſured in their owne minds upon grounds of Scripture, rightly underſtood (as they beleeve) that they have found out true Religion: and may upon as good grounds (it may be) as yours, endeavour to compell you as vehemently to walke by their rules, as you may compell them to walke by yours. And what though you could prevaile with Authority, to ſecond your endeavours? ſhame not your ſelves (and kick not againſt pricks) by endeavou<g ref="char:EOLhyphen"/>ring a thing ſo evidently unjuſt; nor tempt a juſt power to do a thing ſo contra<g ref="char:EOLhyphen"/>ry to their owne Conſciences and ſo prejudiciall to the Common Wealth.</p>
+            <p>And ſince you labour for a pute and perfect Reformation in all Chriſts Or<g ref="char:EOLhyphen"/>dinances, it would be happie for the whole Nation, that you would inſiſt prin<g ref="char:EOLhyphen"/>cipally upon his greateſt undiſputable Ordinance, which is LOVE: Love you know, is the fulfilling of the whole Law, the end of the Commandements is love: By this ſhall all men know, that you are my Diſciples, if you love one another: And that you are tranſlated from death to life, if you love the bre<g ref="char:EOLhyphen"/>thren: Yea, though you ſpeake with the tongues of men and Angels, and pre<g ref="char:EOLhyphen"/>tend never ſo much zeale to all Chriſts Ordinances, (as indeed you abound in glorious language in that your Petition): yet without Love, you are all but as ſounding Braſſes and unckling Cimballs. So Love is the luſter and beauty of Religion: Let your light therefore (your Love) ſo ſhine before men, that they ſeeing your good workes may glorifie your father which is in Heaven: If you have this worlds goods, and ſee your Brother lacke, how dwelleth the Love of God in you? Pure Religion and undefiled before God even the father, is this, to viſit the Fatherleſſe and Widowes in their diſtreſſe, and to keepe your ſelves unſpotted of the World.</p>
+            <pb n="3" facs="tcp:158780:2"/>
+            <p>Will it (thinke you) be ſufficient in the great day of the Lord, to ſay, Lord we have preached and heard and prayed and faſted and mourned and received in thy name, but conſider; Though you could ſay, Lord in thy name, we have caſt out Devills, and done great miracles, you know your anſwer aforehand, Away from me I know you not; For when I was an hungred, you fed me not; when I was naked yee clothed me not, when I was ſicke and in priſon yee viſi<g ref="char:EOLhyphen"/>ted me not, &amp;c. But how far ſhort of theſe rules doe thoſe come, that will not allow their brethren a peaceable life amongſt them, if they but differ from them in ſome points of judgement? if you doe conceive any one to be in an error, breake not the bonds of love to bring him out of his error, for you may eaſily miſtake truth for error, but love is ſo well knowne, that you can no wiſe ex<g ref="char:EOLhyphen"/>cuſe the breach thereof.</p>
+            <p>If you would have an end of all your troubles, ſtudy love, though it be the only neglected, unpathed and forgotten way, yet is it like the poore wiſe man that ſaved the City by his wiſedome, for love is wiſe, and ſince the loving way is the moſt prevalent way in all things, endeavour therein to be moſt forward, in all your purpoſes, councells, debatings, or petitions, and let love governe; &amp; ſay within your ſelves in every thing, how doth this conſiſt with love? Love is the forme of every ſound mind, and uſeth none but Juſt meanes to obtaine his iuſt deſires, and cannot but be diſpleaſed when Chriſtians doe the contrary.</p>
+            <p>And truly, Love it ſelfe doth much diſlike, that you ſhould flatter the world into a high conceipt of the Reformation in King <hi>Edwards</hi> or Queene <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> dayes; when it was but a meere buſtling of the Clergie, to get one another out of their places; by which indeed the people gained ſome ſmall meaſure of knowledge: But yet <hi>Penry, Greenwood</hi> and <hi>Barrow</hi> were put to death for know<g ref="char:EOLhyphen"/>ing more then the State allowed; And though much better be hoped from the preſent Reformers yet if you conſider the manyfold miſeries and ſufferings of Godly harmeleſſe people for Conſcience ſake, even in theſe times, and could looke upon the ſame with an eye of love, it would make you weepe and feare the iſſue, as well as rejoyce in the Parliaments proceedings.</p>
+            <p>Alas, you little thinke of the manifold inconveniences, that you deſire for your ſelves in haſtning your Church Government, untill you have a Church to be governed. Doe you know what judgement you may be of, before halfe a yeare come to an end? and would you willinglie be liable to compulſion or reſtriction, to moleſtation or puniſhment for, ſerving God according to your Conſciences? You know not what ſpirit you are of, nor whoſe worke you are doing: And (did not the wiſedome of Parliament prevent,) you would draw inevitable thraldome upon your ſelves, your innocent brethren, the poſteritie,
+<pb n="4" facs="tcp:158780:3"/>and the whole Nation: You are deluded with glofing language, affectation of ſpeech, and holy tearmes ſophiſtically framed, whoriſhly painted, and artifi<g ref="char:EOLhyphen"/>cially compoſed, and you are cauſleſly affrighted with old Popiſh exclamati<g ref="char:EOLhyphen"/>ons againſt Hereſie, Schiſme, Scandall, Strange Sects, Horrid, blaſphemous opinions, Separated Aſſemblies, illiterate Paſtors, boldneſſe, inſolencie, con<g ref="char:EOLhyphen"/>tempt of all Authority, Seditious perſons, diſturbance of the Citie, unnaturall flames of diviſion, eſpecially about Church Government, in the ſame King<g ref="char:EOLhyphen"/>dome, betweene people and people, Miniſter and Miniſter, Paſtor and Flocke, Maſter and Servants, Parents and Children, Husbands and wives, differences in opinion, breeding alienation in affection.</p>
+            <p>It is wonderfull, that in our great and victorious Army, differences in opini<g ref="char:EOLhyphen"/>on ſhould have no ſuch evill effect but the contrary, as witneſſeth that worthy and religious commander Lieutenant Generall <hi>Cromwell,</hi> Maſter <hi>John Ruſhford</hi> in his Relation to maſter Speaker about taking of <hi>Briſtoll,</hi> certainly the reaſon is from the wiſedome of his Excellency, our moſt worthy and proſperous Generall, in making no diſtinction of his Officers or Souldiers, but as they are vertuous or vicious, performe or neglect their dutys: That true Chriſtian love is more regarded univerſally in that army, then any formes of worſhip or Church Government at all, Love is the life and ſoule of Religion, and the true mother of all unity and peace.</p>
+            <p>Well, but I pray you obſerve, what other miſcheifes are collected, to ani<g ref="char:EOLhyphen"/>mate you to make your Petition, for your preſent eſtabliſhing of Church Go<g ref="char:EOLhyphen"/>vernment; Why? here lyeth the weight of all this agravation, the reaſon of all the other exclamations; and the true cauſe of the haſte. Faithfull Miniſters are deſpiſed and diſcouraged in their Miniſtry, Hopefull plants diſheartned, and terrified from the miniſtry, Publique. Aſſemblyes are forſaken, the pretended Preachers of new Goſpels cryed up: Univerſall toleration of all opinions plea<g ref="char:EOLhyphen"/>ded for: beleeve it, here's matter enough indeed, for if there be once graunted a freedome of ſpeech, an opening of the Preſſes, and toleration of all Opini<g ref="char:EOLhyphen"/>ons and immediatly downe goeth the glory of the Clergy.</p>
+            <p>They will eaſily be proved to be no other then other men, (if ſo good,) their impofition of hands, will not hold up their honour in the leaſt: <hi>Jure Divino</hi> is already daſht, and there remaines no hope of recovery: Downe alſo falleth their domination, for why ſhould thoſe Clergie men, who are in no more relation to God then other men, but meere errable men like others, aſſume un<g ref="char:EOLhyphen"/>to themſelves a power of judging and cenſuring of opinions, doctrines and practiſes in matters of Religion?</p>
+            <p>And then alſo downe falls their profit, for no man will henceforth thinke
+<pb n="5" facs="tcp:158780:3"/>himſelfe bound by any law of God, to pay tithes any longer, now under the Goſpel, as of old was due to Gods faithfull Miniſters under the Law; and ſo they will ſtand only as publique men appointed by the State, to an Office of teaching and inſtructing the people, and performing other buſineſſe as the Par<g ref="char:EOLhyphen"/>liament ſhall thinke meet, who alſo may appoint to every one a compe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent ſtipend, ſutable to his charge and carriage then it may be, they will both live quietly and let others live quietly too: and ſo the whole Nation will have reſt from this intollerable oppreſſion of a compulſive Church Government: and the Parliament be freed from a continuall trouble and importunate diverſion, from their more important affaires.</p>
+            <p>But this doubtleſſe would follow, that the learned Clergy know better them you doe, and they had rather you ſhould know any thing then thoſe things, for you muſt obſerve, that ſelfe deny all is more often preach't then practiſed by them: Why doe you thinke they are ſuch enemies to the <hi>Independents,</hi> and all ſorte of the <hi>Separation?</hi> You imagine it is becauſe they run into errors and damanale opinions to their ſoules deſtruction; No, no ſuch thing, it is only be<g ref="char:EOLhyphen"/>cauſe the true <hi>Independents</hi> and ſeparation, doe all the very Paſtors offices them<g ref="char:EOLhyphen"/>ſelves, renounce and diſclaime all Glory in diſtinction, from the greateſt to the meaneſt of their Flocke, and all uſurped domination, being but as any other men, in judging of Doctrines or practices, and but as the mouth or ſpeaker of the Congregation.</p>
+            <p>Alſo, they renounce all right or claime to any pay, and if they want not, their judgement is, that they ought rather to give then to receive; the difference is viſible enough, You may perceive your Clergie doe ſtand for Glory, Domi<g ref="char:EOLhyphen"/>nation, Profit. Our faithfull Officers doe renounce them all, both in name and in deed. And thus you ſee, the cauſe of that maſſe of Clamour and excla<g ref="char:EOLhyphen"/>mation and reproach, which they heaped together for you, in your Petition to blind your eyes: wherein they prevailed to much upon your zeale, to the great prejudice of your judgements: for it will hardly be credited, that ſuch an un<g ref="char:EOLhyphen"/>derſtanding people as you are, ſhould be induced to petition, for the eſtabliſh<g ref="char:EOLhyphen"/>ment of any Modell of Government, which you had never ſecne nor exami<g ref="char:EOLhyphen"/>ned, according to the word of God.</p>
+            <p>And was it not as improper, to urge the victory at <hi>Nazeby,</hi> the quick reco<g ref="char:EOLhyphen"/>very of <hi>Lieceſter,</hi> the reliefe of <hi>Taunton,</hi> the Surrender of <hi>Bridgewater, Shurburne Briſtoll,</hi> as an Argument to haſten that Government, which muſt neceſſarily haſten the thraldome of moſt of thoſe worthy Commanders and Souldiers, whom God was pleaſed to honour with ſo many both unexpected and unde<g ref="char:EOLhyphen"/>ſerved bleſſings? The ſame hands have beene ſince laden with more benefits
+<pb n="6" facs="tcp:158780:4"/>of the ſamr nature; if that would any thing availe with you: You once knew an Armie or two, that hated nothing ſo much as Tub preachers, as you too much have delighted to heare worthy men ſo reproached, and all ſuch Round<g ref="char:EOLhyphen"/>heads were wearied out, you know alſo what followed, certainly God and you have judged differently of that ſort of people.</p>
+            <p>But you are to be pitied herein, as being not wholly your ſelves in this cauſe, you have too much relyed upon ſome, whoſe pride and domination muſt ei<g ref="char:EOLhyphen"/>ther fall, or Gods glory, and the good of the Common-wealth, but if you per<g ref="char:EOLhyphen"/>ſiſt in ſuch fruitleſſe buſineſſe, after this timely advice, your ſinne will be little leſſe then that of wilfullneſſe; In mercy therefore to your ſelves, and tender compaſſion to your yet too much diſpiſed brethren of the Separation, labour (by ſound conſideration) to amend your judgements; and by ſome proper worke of love, make ſome amends for this your hard and unwarrantable in<g ref="char:EOLhyphen"/>tention againſt them, and whilſt you live, love the Parliament that ſtopt you in your too haſty and inconſiderate purſuite thereof: Little doe you imagine the benefits that would accrew to the whole Nation by generall liberty, how is it poſſible you ſhould judge cleerly of a thing, you dare not thinke of, nothing ſo much diſtracts the underſtanding as feare doth chiefly of your unlimitable preheminence and intolerable maintenance.</p>
+            <p>There is nothing more certaine, then that the State ſhall thence receive it's greateſt ſafty, Provided it make good and pertinent Lawes againſt all Treaſon, Treachery, Vice, and corruption of manners, and withall, appoint good Offi<g ref="char:EOLhyphen"/>cers for execution of thoſe Lawes, if all peaceable people were countenanced alike by Authority, and all reproach and diſpitefull language diſcountenanced, all ſorts of peaceable People could not chooſe but love ſuch a Government, and errors would be convinc'd, by reaſon and demonſtration in due time, which is the only juſt and proper way, for it is a ſad thing that any man ſhould ſuffer impriſonment, or other violent dealing, or puniſhment, for error in judgement, how great ſo ever, not maintained by any act of violence; you have taken but too much pleaſure in obſerving ſome ſuch dealing, even in this time wherein you boaſt of being reſtored to all juſt liberty.</p>
+            <p>Make amends alſo in this, inquire who they are that ſuffer in this kind, and uſe all lawful endeavours for their deliverance, and no longer give counte<g ref="char:EOLhyphen"/>nance to thoſe that glory in nothing more, then learning and literall abilities, and yet make uſe of impriſonments and cloſe impriſonments too; &amp; ſtill labour for baniſhments (and death if the Parliament would give eare thereunto) to vanquiſh errors: O what is become of love? What is become of that meeke<g ref="char:EOLhyphen"/>neſſe, plainneſſe, gentleneſſe, &amp; patience that were in our bleſſed Saviour, &amp; his Meſſengers that planted and propagated the Goſpel, not by violence but by
+<pb n="7" facs="tcp:158780:4"/>love? Let us all henceforth abandon all violence and unkindneſſe one toward another, let us not ſtrive about words or things that are needleſſe, diſputable, and obſcure, but let all things be done in meekeneſſe, and lowlineſſe of minde, and let us watch all opportunities, how to exceed in love one towards another: Bleſſed is he, whom the Lord when hee commeth, ſhall finde ſo doing.</p>
+            <div type="to_the_reader">
+               <head>Courteous Reader.</head>
+               <p>SInce nothing is more excellent, nor can be more prevalent, either in Wars, or any action or interpriſe; then love, concord, and unitie of affection, nor yet any thing more to be avoided, then needdleſſe differences, denominations, and diſtinctions, which doe ariſe by diverſitie of opinions; chieflie in matters of Religion, becauſe they breed diſcord, and ſo tend to confuſion. As when one ſaith, I am <hi>Pauls,</hi> another <hi>Apollos,</hi> the third <hi>Cephas,</hi> and the fourth <hi>Chriſts,</hi> as if Chriſt were divided, or <hi>Paul</hi> crucified, &amp;c. Having yet ſome convenient roome here remaining, I have thought it expedient, to inſert the concluſion of Lieut. Generall <hi>Cromwells</hi> Letter from the Armie, becauſe it not only keepeth an excellent Harmony with the former matter, but likewiſe it manifeſteth to the world, how the perſecuting partie, I meane the <hi>Presbiterians</hi> and the Law<g ref="char:EOLhyphen"/>yers, their Adherents unjuſt dealing againſt thoſe whom the Epiſcopall partie called Round-heads, and they call <hi>Independents,</hi> and ſo not doing unto others as they would be done unto themſelves.</p>
+            </div>
+            <div type="conclusion">
+               <head>THE CONCLVSION OF Lieuten: Generall <hi>Cromwells</hi> Letter From the Armie, to the Houſe of Commons, concerning the ta<g ref="char:EOLhyphen"/>king of <hi>BRISTOLL.</hi>
+               </head>
+               <argument>
+                  <p>Which was contained in the Originall Letter ſigned by him<g ref="char:EOLhyphen"/>ſelfe, but omitted in the Printed Copy, which is Authorized by the Houſe of Commons, though there was a whole Page left blanke in that ſheet.</p>
+                  <p>Whereby the World may know, how both the Truth, the Common-Wealth, and that worthy gentleman are wronged (as well as other men,) either by the Printer or ſome others.</p>
+               </argument>
+               <p>PReſbiterians, Independents, all had here the ſame Spirit of Faith and prayer, the ſame preſence and anſwer, they agree here, know no names of diffe<g ref="char:EOLhyphen"/>rence; pitty it is, it ſhould be otherwiſe any
+<pb n="8" facs="tcp:158780:5"/>where: All that beleeve, have the reall Vnity which is moſt glorious, becauſe inward and ſpirituall in the body and to the head. As for being united in formes (commonly called uniformity) every Chriſtian will for Peace ſake, ſtudy and doe as far as Conſcience will permit; And from bre<g ref="char:EOLhyphen"/>thren, in things of the mind, we looke for no cumpulſion, but that of Light and reaſon.</p>
+               <p>In other things God hath put the ſword into the Parlia<g ref="char:EOLhyphen"/>ments hands, for the terrour of Evill dooers, and the praiſe of them that doe well; if any plead exemption from it, he knowes not the Goſpel. If any would wring it out of your hands, or ſteale it from you, under what pretence ſo ever. I hope they ſhall doe it without effect, That God will main<g ref="char:EOLhyphen"/>taine it in your hands, and direct you in the uſe thereof, is the prayer of</p>
+               <closer>
+                  <signed>Your humble ſervant, <hi>Oliver Cromwell.</hi>
+                  </signed>
+                  <dateline>From <hi>Briſtoll,</hi> this 14<hi rend="sup">th.</hi> of
+<date>
+                        <hi>Septemb.</hi> 1645.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed <hi>October.</hi> 1645.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </back>
+   </text>
+</TEI>
